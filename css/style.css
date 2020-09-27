@@ -25,3 +25,20 @@
   max-width: 350px;
   margin-top: 140px;
 }
+
+.header-text h1 {
+  font-size: 28px;
+}
+
+.square {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: #5D66D3;
+  margin: 15px 0;  
+}
+
+.header-text p {
+  line-height: 1.4;
+}
+
