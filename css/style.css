@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: sans-serif
 }
 
 #header {
@@ -18,5 +19,9 @@
 .logo {
   width: 100px;
   margin-top: 30px;
+}
 
+.header-text {
+  max-width: 350px;
+  margin-top: 140px;
 }
