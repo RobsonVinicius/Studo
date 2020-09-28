@@ -5,7 +5,7 @@ Projeto de uma Landing Page para a escola online Studo<br><br>
 ![Preview Desktop Studo](Layout/thumbnail.png)
 
 
-## Fonte Utilizada no Projeto
+## Fonte utilizada no projeto
 Nunito Sans 
 + Regular 400
 + Semi-bold 600
