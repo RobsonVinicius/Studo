@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: sans-serif
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 #header {
@@ -27,7 +27,8 @@
 }
 
 .header-text h1 {
-  font-size: 28px;
+  font-size: 30px;
+  font-weight: 600;
 }
 
 .square {
@@ -39,6 +40,22 @@
 }
 
 .header-text p {
-  line-height: 1.4;
+  font-size: 16px;
+  line-height: 18px;
+  color: #777;
 }
+
+.btn-enroll {
+  padding: 18px 40px;
+  background: transparent;
+  outline: none;
+  border: 2px solid #5D54A4;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 60px;  
+  color: #5D54A4
+}
+
 
