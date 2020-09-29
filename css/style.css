@@ -33,8 +33,8 @@
 
 .square {
   display: inline-block;
-  width: 12px;
-  height: 12px;
+  width: 15px;
+  height: 15px;
   background: #5D66D3;
   margin: 15px 0;  
 }
@@ -53,9 +53,33 @@
   font-size: 20px;
   font-weight: 600;
   cursor: pointer;
-  margin-top: 20px;
-  margin-bottom: 60px;  
+  margin-top: 25px;
+  margin-bottom: 40px;  
   color: #5D54A4
 }
 
+.square-group span {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-right: 5px;
+}
 
+.square-1 {  
+  background: #5D66D3;
+}
+
+.square-2 {  
+  background: #5D54A4;
+}
+
+.square-3 {  
+  background: #4F5F81;
+}
+
+/* .line-1 {
+  width: 15px;
+  height: 15px;
+  background: #5D66D3;
+  display: inline-block
+} */
