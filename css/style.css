@@ -17,17 +17,17 @@
 }
 
 .logo {
-  width: 100px;
+  width: 120px;
   margin-top: 30px;
 }
 
 .header-text {
-  max-width: 350px;
+  max-width: 440px; /* 350px; */
   margin-top: 140px;
 }
 
 .header-text h1 {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 600;
 }
 
@@ -40,8 +40,8 @@
 }
 
 .header-text p {
-  font-size: 16px;
-  line-height: 18px;
+  font-size: 22px;
+  line-height: 1.2;
   color: #777;
 }
 
@@ -50,7 +50,7 @@
   background: transparent;
   outline: none;
   border: 2px solid #5D54A4;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   cursor: pointer;
   margin-top: 25px;
