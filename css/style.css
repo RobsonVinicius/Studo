@@ -77,9 +77,26 @@
   background: #4F5F81;
 }
 
-/* .line-1 {
-  width: 15px;
-  height: 15px;
-  background: #5D66D3;
-  display: inline-block
-} */
+.line-group {
+  display: inline-block;
+  margin-top: 20px;
+  width: 100%;  
+}
+
+.line-1 {
+  border: 1px solid #000;
+  width: 20%;
+}
+
+.line-2 {
+  border: 1px solid #000;
+  width: 15%;
+  margin-top: 10px;
+}
+
+.line-3 {
+  border: 1px solid #000;
+  width: 10%;
+  margin-top: 10px;
+}
+
