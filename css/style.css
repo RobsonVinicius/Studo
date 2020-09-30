@@ -100,6 +100,7 @@
   width: 10%;  
 }
 
+/* Menu */
 #side-nav {
   width: 250px;
   height: 100vh;
@@ -155,4 +156,54 @@ nav ul li a {
 
 .menu-btn .line-menu-3 {
   width: 28px;  
+}
+
+/* About */
+#about {
+  padding: 100px 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about-col-1 {
+  flex-basis: 50%;
+}
+
+.about-col-1 img {
+  width: 100%;
+}
+
+.about-col-2 {
+  flex-basis: 50%;
+  text-align: right;
+}
+
+.about-text {
+  max-width: 500px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+.about-col-2 .line-group {  
+  position: relative;  
+  margin-top: 0;
+}
+
+.about-col-2 .line-group span {
+  position: absolute;
+  right: 0;  
+}
+
+.about-col-2 h2 {
+  font-size: 32px;
+}
+
+.about-col-2 p {
+  font-size: 22px;
+}
+
+.about-col-2 blockquote {
+  margin-top: 50px;
+  font-style: italic;
 }
