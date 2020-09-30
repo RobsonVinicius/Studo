@@ -15,4 +15,6 @@ Nunito Sans
 https://fonts.google.com/specimen/Nunito+Sans
 
 
+## Layout Construído 
+Figma - Layout > Studo.fig
 
