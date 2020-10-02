@@ -18,7 +18,11 @@ https://fonts.google.com/specimen/Nunito+Sans
 ## Layout Construído 
 Figma - https://www.figma.com/<br>
 
-Donwload: Vá até a pasta Layout > Studo.fig
+Donwload: <br>
+• Vá até a pasta Layout 
+• Selecione o arquivo 
+• Clique em Studo.fig
+• Clique no Botão Donwload
 
 
 ## Demo 
