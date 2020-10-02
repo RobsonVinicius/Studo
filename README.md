@@ -16,7 +16,9 @@ https://fonts.google.com/specimen/Nunito+Sans
 
 
 ## Layout Construído 
-Figma - Layout > Studo.fig
+Figma - https://www.figma.com/<br>
+
+Donwload: Vá até a pasta Layout > Studo.fig
 
 
 ## Demo 
