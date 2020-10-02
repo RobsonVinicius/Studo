@@ -20,9 +20,8 @@ Figma - https://www.figma.com/<br>
 
 Donwload: <br>
 + Vá até a pasta Layout 
-+ Selecione o arquivo 
-+ Clique em Studo.fig
-+ Clique no Botão Donwload
++ Selecione o Studo.fig
++ Clique no Botão Donwload para baixar o projeto
 
 
 ## Demo 
