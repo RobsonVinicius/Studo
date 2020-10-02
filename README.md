@@ -19,10 +19,10 @@ https://fonts.google.com/specimen/Nunito+Sans
 Figma - https://www.figma.com/<br>
 
 Donwload: <br>
-• Vá até a pasta Layout 
-• Selecione o arquivo 
-• Clique em Studo.fig
-• Clique no Botão Donwload
++ Vá até a pasta Layout 
++ Selecione o arquivo 
++ Clique em Studo.fig
++ Clique no Botão Donwload
 
 
 ## Demo 
