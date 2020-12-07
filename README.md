@@ -1,6 +1,8 @@
 ﻿# Studo
 
-Projeto de uma Landing Page para a escola online Studo<br><br>
+Projeto de uma Landing Page para a escola online Studo
+
+<br><br>
 
 ![Preview Desktop Studo](Layout/thumbnail.png)
 
@@ -14,6 +16,7 @@ Nunito Sans
 
 https://fonts.google.com/specimen/Nunito+Sans
 
+<br>
 
 ## Layout Construído 
 Figma - https://www.figma.com/<br>
@@ -23,6 +26,7 @@ Donwload: <br>
 + Selecione o Studo.fig
 + Clique no Botão Donwload para baixar o projeto
 
+<br>
 
 ## Demo 
 https://robsonvinicius.github.io/Studo/
