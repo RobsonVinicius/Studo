@@ -369,6 +369,11 @@ nav ul li a {
   color: #5D54A4
 }
 
+.contact-row .btn-enroll {
+  border: 3px solid #5D54A4;
+  margin-bottom: 0;
+}
+
 .contact-row .btn-box {
   width: 100%;
   display: flex;
