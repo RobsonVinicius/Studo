@@ -415,8 +415,27 @@ nav ul li a {
 
 .footer-left-col {
   flex-basis: 50%;
+  margin-top: 60px;
 }
 
 .footer-right-col {
   flex-basis: 35%;
+}
+
+.footer-links {
+  display: flex;  
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.link-title h4 {
+  color: #5D54A4;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.link-title small {
+  font-size: 17px;
+  color: #777;
+  line-height: 1.5rem;
 }
