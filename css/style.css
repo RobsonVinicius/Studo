@@ -393,3 +393,30 @@ nav ul li a {
 .contact-row .line-2 {
   width: 50px;
 }
+
+/* Footer */
+
+#footer {
+  padding: 50px 0 30px;
+}
+
+#footer hr {
+  width: 100%; 
+  border: 0;
+  border-top: 1px solid #5D54A4;
+}
+
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-left-col {
+  flex-basis: 50%;
+}
+
+.footer-left-col {
+  flex-basis: 39%;
+}
