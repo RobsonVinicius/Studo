@@ -417,6 +417,6 @@ nav ul li a {
   flex-basis: 50%;
 }
 
-.footer-left-col {
-  flex-basis: 39%;
+.footer-right-col {
+  flex-basis: 35%;
 }
