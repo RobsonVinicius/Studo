@@ -439,3 +439,20 @@ nav ul li a {
   color: #777;
   line-height: 1.5rem;
 }
+
+.footer-info {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-logo img {
+  width: 120px; 
+  display: flex;
+  justify-content: end; 
+}
+
+.copyright-text, .footer-logo {
+  flex-basis: 30%;
+}
