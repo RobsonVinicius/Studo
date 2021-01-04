@@ -468,3 +468,43 @@ nav ul li a {
   margin: 0 auto 20px;
   cursor: pointer;
 }
+
+
+
+@media only screen and (max-width: 770px) {
+  #header {
+    background-image: none;
+  }
+
+  .container {
+    margin-right: 30px;
+    margin-left: 54px;
+  }
+
+  .logo {
+    margin-top: 27px;
+    width: 100px;
+  }
+
+  .header-text {    
+    margin-top: 80px;
+  }
+
+  .header-text br {
+    display: none;
+  }
+
+  .header-text h1 {
+    font-size: 24px;
+  }
+
+  .header-text p {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .btn-enroll {
+    width: 100%;
+  }
+
+}
