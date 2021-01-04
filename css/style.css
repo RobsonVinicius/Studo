@@ -440,19 +440,13 @@ nav ul li a {
   line-height: 1.5rem;
 }
 
-.footer-info {
+.footer-logo {
   display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  justify-content: flex-end; 
+  margin-right: 50px;
+  line-height: 1.5rem;
 }
 
 .footer-logo img {
-  width: 120px; 
-  display: flex;
-  justify-content: end; 
-}
-
-.copyright-text, .footer-logo {
-  flex-basis: 30%;
+  width: 120px;   
 }
