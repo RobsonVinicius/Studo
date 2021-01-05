@@ -519,4 +519,19 @@ nav ul li a {
   .about-text h2 {
     font-size: 28px;
   }
+
+  .feature-col {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+
+  .line-group-one, .line-group-two {
+    display: none;
+  }
+
+  .feature-btn .btn-enroll {
+    margin-right: 30px;
+    margin-left: 54px;
+  }
 }
