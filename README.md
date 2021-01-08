@@ -18,6 +18,16 @@ https://fonts.google.com/specimen/Nunito+Sans
 
 <br>
 
+## Utilizado scroll-behavior
+
+Suporte: https://caniuse.com/?search=scroll-behavior
+
+[How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/)
+
+Alterantiva: https://github.com/cferdinandi/smooth-scroll
+
+<br>
+
 ## Layout Construído 
 Figma - https://www.figma.com/<br>
 
