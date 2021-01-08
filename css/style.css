@@ -580,4 +580,21 @@ nav ul li a {
   #offer .about-text .btn-enroll { 
     padding: 15px 25px;
   }
+
+  .contact-col-1, .contact-col-2 {
+    flex-basis: 100%;
+  }
+
+  .contact-col-2 {
+    margin-top: 50px;
+  }
+
+  .contact-row h3 {
+    font-size: 28px;
+  }
+
+  .contact-row h3 br {
+    display: none;
+  }
+  
 }
