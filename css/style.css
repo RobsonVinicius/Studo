@@ -596,5 +596,18 @@ nav ul li a {
   .contact-row h3 br {
     display: none;
   }
+
+  .footer-left-col, .footer-right-col {
+    flex-basis: 100%;
+  }
   
+  .link-title {
+    flex-basis: 50%;
+    margin-bottom: 30px;
+  }
+
+  .footer-logo {
+    justify-content: center;
+  }
+
 }
