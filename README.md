@@ -29,12 +29,10 @@ Alternativa: https://github.com/cferdinandi/smooth-scroll
 <br>
 
 ## Layout Construído 
-Figma - https://www.figma.com/<br>
 
-Donwload: <br>
-+ Vá até a pasta Layout 
-+ Selecione o arquivo Studo.fig
-+ Clique no Botão Donwload para baixar o projeto
+Clique [aqui](https://github.com/RobsonVinicius/Studo/raw/master/Layout/Studo.fig) para baixar o projeto<br>
+
+Figma - https://www.figma.com/
 
 <br>
 
